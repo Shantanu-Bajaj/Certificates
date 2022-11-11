@@ -8,3 +8,4 @@ Intercultural Communication and Conflict Resolution by University of California,
 High Performance Collaboration: Leadership,Teamwork, and Negotiation by Northwestern University - https://coursera.org/verify/MFYPEKFDEQ2Q
 Interpersonal Communication for Engineering Leaders bu Rice University - https://coursera.org/verify/NMJQD9L8TY3S
 High-Impact Business Writing by University of California, Irvine - https://coursera.org/verify/FLA9ZNRWY63Z
+The Joy of Computing using Python by NPTEL - https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL20CS83S61110154162028
